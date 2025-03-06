@@ -3,7 +3,7 @@ title: "Upcoming Open Mic - Changes in DataSpecer"
 categories: [Open Mic Announcement, Open Mic]
 ---
 
-The next Open mic session starts on Friday 8th November 2024 at :30 at [this link](https://meet.jit.si/open-mic-kbss). Todays speaker [Michal Med]https://kbss.felk.cvut.cz/web/team#michal-med) introduces changes in DataSpecer since the [last Open Mic session on this topic in November 2022](https://kbss.felk.cvut.cz/web/open-mic-dataspecer). 
+The next Open mic session starts on Friday 8th November 2024 at 9:30 at [this link](https://meet.jit.si/open-mic-kbss). Todays speaker [Michal Med]https://kbss.felk.cvut.cz/web/team#michal-med) introduces changes in DataSpecer since the [last Open Mic session on this topic in November 2022](https://kbss.felk.cvut.cz/web/open-mic-dataspecer). 
 
 
 {% include figure image_path="assets/images/posts/2025-03-06-openmic-dataspecer.png" alt="DataSpecer RDF vocabulary graphic model." %}
