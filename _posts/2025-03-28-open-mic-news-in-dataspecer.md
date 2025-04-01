@@ -1,7 +1,7 @@
 ---
 title:  "News in DataSpecer"
 categories: [Open Mic Session, Open Mic]
-excerpt: "First in a two-part practical series on developing and debugging with Docker Compose."
+excerpt: "DataSpecer is a tool meant for creating data specifications and structures based on the existing or newly created RDF Vocabularies. The speech focuses on the practical usage of a tool."
 ---
 
 The speech with the topic "News in DataSpecer" took place on Friday 28 March 2025. The speaker [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) hosted the session and introduced recent changes in the tool since the [last speech about DataSpecer](introduces changes in DataSpecer since the [last Open Mic session on this topic in November 2022](https://kbss.felk.cvut.cz/web/open-mic-dataspecer) took place in our Open mic Session. Video and presentation included.
