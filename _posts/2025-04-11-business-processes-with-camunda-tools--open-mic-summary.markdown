@@ -1,36 +1,44 @@
 ---
-title:  "Business processes with Camunda tools"
-categories: [Open Mic Session, Open Mic]
-excerpt: "Short description of the session topic that is displayed below the article header on the landing page."
+title: "Business processes with Camunda tools"
+categories: [ Open Mic Session, Open Mic ]
+excerpt: "Most organizations operate based on business processes. In this talk, we discuss modeling and execution of business processes using free tools from Camunda."
 ---
 
-<!-- Fixing content of this file:
-  - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
-    - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`
-    - OPEN_MIC_SESSION_DATE=`Friday 4 April 2023`
-  - remove all comments from this file
--->
 
-First paragraph describes who, what and when. It shall contain something like: On Friday 11 April 2025 speaker [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) held an Open Mic session with the topic \"Business processes with Camunda tools\". Video and presentation included.
+On Friday 11 April 2025 [Martin Ledvinka](https://kbss.felk.cvut.cz/web/team#martin-ledvinka) held an Open Mic session
+with the topic \"Business processes with Camunda tools\". Video and presentation included.
 
-Then include video using following code:
-
-{% include video id="-UriTtvcnmE" provider="youtube" %}
-
-Video is uploaded to youtube by Michal. The id parameter is part of the link behind v=.
-
-##### The abstract
-
-In the rest of the text, describe what was the presentation about, include some figures, link to the presentation (make sure it is shared with everyone with link) and you may also add some further reading.
-
-Either link to figures online or upload them to assets/images/posts folder:
-{% include figure image_path="assets/images/posts/image-name.png" alt="description text" %}
+{% include video id="qOY9vi9F_N0" provider="youtube" %}
 
 
-Upload the slides to https://drive.google.com/drive/u/0/folders/1SD92CFn01BFnajc8ZlNUvgJaRvHiIUld
+##### Abstract
 
-The presentation slides are available [at this link](https://drive.google.com/file/d/1HuDqFeqkBBrCmcQzAOJ7PoOFwlIoOlAF/view?usp=sharing).
+Organizations usually operate based on business processes that define how things happen. The definition of these
+processes
+is often implicit in that it is based on a common understanding of the organization members. This has multiple issues:
 
-Links:
+- New members may have hard time getting to know the processes
+- If the process is understood only by a handful of people, its knowledge may be lost when they leave
+- Different people may understand a process differently
+- Building an information system based on such a process is challenging
+
+[BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation) is a visual business process modeling language
+that is understandable by IT professionals as well as domain experts. BPMN models can then serve as a documentation and
+communication means for the organization. Moreover, information systems can be built to execute the processes
+automatically.
+
+{% include figure image_path="assets/images/openmics/2025-04-11-openmic-announcement-workflow.png" alt="Example of a
+BPMN model of the open mic announcement process" %}
+
+[Camunda](https://camunda.com/) offers an ecosystem of tools that support the development and execution of BPMN models.
+In this talk we discuss how these tools can be used to model and execute processes and how they can be integrated into
+information systems.
+
+The presentation slides are
+available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
+
 Further reading:
-* [Link text](https://linkadre.ss)
+
+* [BPMN](https://en.wikipedia.org/wiki/Business_Process_Model_and_Notation)
+* [Camunda Modeler](https://camunda.com/platform/modeler/)
+* [Camunda BPMN Workflow Engine](https://camunda.com/platform-7/workflow-engine/)
