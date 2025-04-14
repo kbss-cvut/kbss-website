@@ -16,13 +16,17 @@ It consists of two posts:
 - [Open Mic Session](_drafts/open-mic-session-template.markdown): includes the session materials (video and
   presentation)
 
+The following image shows the open mic announcement workflow:
+
+![Open Mic Workflow](/assets/images/openmics/2025-04-11-openmic-announcement-workflow.png)
+
 ### How To Create The Posts:
 
 If you have access to GitHub actions (tab `Actions`) of this repository, they can help you create posts [semi-automatically](#using-github-action).
 Otherwise, you have to do it [manually](#manually). 
 
 
-#### Using Github Action
+#### Using GitHub Actions
 
 There are two GitHub that can be used to create posts: one for [sessions](https://github.com/kbss-cvut/kbss-website/actions/workflows/open-mic-summary-post.yml) and one
 for [announcements](https://github.com/kbss-cvut/kbss-website/actions/workflows/open-mic-announcement-post.yml). The actions can be started using `Run workflow` button
