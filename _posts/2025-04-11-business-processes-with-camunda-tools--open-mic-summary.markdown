@@ -35,7 +35,7 @@ In this talk we discuss how these tools can be used to model and execute process
 information systems.
 
 The presentation slides are
-available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
+available [at this link](https://docs.google.com/presentation/d/1cMDZ1UAtgoT4PeB_mxGsEBM918nljpVOFUriCDaG_90/edit?usp=sharing).
 
 Further reading:
 
