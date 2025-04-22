@@ -10,7 +10,7 @@ will present the STPA Onto Converters project which allows to convert STPA analy
 
 
 ##### Abstract
-Systems Approach to Process Hazard Analysis (STPA) [[1](https://psas.scripts.mit.edu/home/wp-content/uploads/2016/01/Systems-Theoretic-Process-Analysis-STPA-John-Thomas.pdf),[2](http://psas.scripts.mit.edu/home/materials/)] is a modern, top-down, general hazard analysis method. It focuses on examining loss scenarios initiated or not avoided by the performance of control actions or lack there of. Typically in a practical environment after conducting an STPA analysis, the output will be further used in various different ways, e.g. create an analysis report for the management team, combined the output with outputs from other analysis. To ensure interoperability between tools which allow the export of STPA artifacts in variaos structured formats there must be:
+Systems Approach to Process Hazard Analysis (STPA) [[1](https://psas.scripts.mit.edu/home/wp-content/uploads/2016/01/Systems-Theoretic-Process-Analysis-STPA-John-Thomas.pdf),[2](http://psas.scripts.mit.edu/home/materials/)] is a modern, top-down, general hazard analysis method. It focuses on examining loss scenarios initiated or not avoided by the performance of control actions or lack there of. Typically in a practical environment after conducting an STPA analysis, the output will be further used in various different ways, e.g. create an analysis report for the management team, combined the output with outputs from other analysis. To ensure interoperability between tools which allow the export of STPA artifacts in various structured formats there must be:
 1) a common format 
 2) a tool to convert between different STPA formats to the common format.
 
