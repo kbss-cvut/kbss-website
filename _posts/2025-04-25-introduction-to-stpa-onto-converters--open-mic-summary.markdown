@@ -20,7 +20,7 @@ Systems Approach to Process Hazard Analysis (STPA) [[1](https://psas.scripts.mit
 1) a common format 
 2) a tool to convert between different STPA formats to the common format.
 
-This open mic session will present the STPA Onto Converters project [3] which aims to ensure interoperability between tools producing and consuming STPA artifacts. The project implements a set of automated converters which transform between various STPA formats and the STPA ontology which acts as the common format. 
+This open mic session presents the STPA Onto Converters project [3], which aims to ensure interoperability between tools producing and consuming STPA artifacts. The project implements a set of automated converters which transform between various STPA formats and the STPA ontology which acts as the common format. 
 
 **Outline** 
 1) introduction STPA and the STPA ontology
