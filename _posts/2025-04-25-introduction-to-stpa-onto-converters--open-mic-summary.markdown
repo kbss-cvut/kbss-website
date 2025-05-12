@@ -1,7 +1,7 @@
 ---
 title:  "Introduction to STPA Onto Converters"
 categories: [Open Mic Session, Open Mic]
-excerpt: "Short description of the session topic that is displayed below the article header on the landing page."
+excerpt: "There are multiple tools which create structured STPA data. In this talk, we discuss a prototype tool which allows to convert STPA and System Control Structure (SCS) to the STPA ontology."
 ---
 
 <!-- Fixing content of this file:
@@ -11,25 +11,26 @@ excerpt: "Short description of the session topic that is displayed below the art
   - remove all comments from this file
 -->
 
-First paragraph describes who, what and when. It shall contain something like: On Friday 25 April 2025 [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) held an Open Mic session with the topic \"Introduction to STPA Onto Converters\". Video and presentation included.
+On Friday 25 April 2025 [Bogdan Kostov](https://kbss.felk.cvut.cz/web/team#bogdan-kostov) held an Open Mic session with the topic \"Introduction to STPA Onto Converters\". Video and presentation included.
 
-Then include video using following code:
-
-{% include video id="-UriTtvcnmE" provider="youtube" %}
-
-Video is uploaded to youtube by Michal. The id parameter is part of the link behind v=.
+{% include video id="R44x5fuN_3w" provider="youtube" %}
 
 ##### Abstract
+Systems Approach to Process Hazard Analysis (STPA) [[1](https://psas.scripts.mit.edu/home/wp-content/uploads/2016/01/Systems-Theoretic-Process-Analysis-STPA-John-Thomas.pdf),[2](http://psas.scripts.mit.edu/home/materials/)] is a modern, top-down, general hazard analysis method. It focuses on examining loss scenarios initiated or not avoided by the performance of control actions or lack there of. Typically in a practical environment after conducting an STPA analysis, the output will be further used in various different ways, e.g. create an analysis report for the management team, combined the output with outputs from other analysis. To ensure interoperability between tools which allow the export of STPA artifacts in various structured formats there must be:
+1) a common format 
+2) a tool to convert between different STPA formats to the common format.
 
-In the rest of the text, describe what was the presentation about, include some figures, link to the presentation (make sure it is shared with everyone with link) and you may also add some further reading.
+This open mic session will present the STPA Onto Converters project [3] which aims to ensure interoperability between tools producing and consuming STPA artifacts. The project implements a set of automated converters which transform between various STPA formats and the STPA ontology which acts as the common format. 
 
-Either link to figures online or upload them to assets/images/posts folder:
-{% include figure image_path="assets/images/posts/image-name.png" alt="description text" %}
+**Outline** 
+1) introduction STPA and the STPA ontology
+2) STPA Onto Converters project and implemented converters
+3) Future work
 
-
-Upload the slides to https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e
-
-The presentation slides are available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
+The presentation slides are available [at this link](https://docs.google.com/presentation/d/1yD5FeJULknTM2CPux54KGIAHlJbuCvxkaWcAdbanUG8/edit?usp=drive_link).
 
 Further reading:
-* [Link text](https://linkadre.ss)
+
+* [1] [STPA handbook](https://psas.scripts.mit.edu/home/wp-content/uploads/2016/01/Systems-Theoretic-Process-Analysis-STPA-John-Thomas.pdf). Leveson, Nancy G. & Thomas, J. P. MIT Partnership for Systems * Approaches to Safety and Security (PSASS), Cambridge, Massachusetts, U.S., 2018.
+* [2] [STAMP Materials](http://psas.scripts.mit.edu/home/materials/), online, accessed 4.2025
+* [3] [STPA Onto Converters](https://github.com/kbss-cvut/stpa-onto-converters), online , accessed 4.2025
