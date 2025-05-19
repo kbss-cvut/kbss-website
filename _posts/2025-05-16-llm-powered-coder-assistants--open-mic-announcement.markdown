@@ -4,7 +4,7 @@ categories: [Open Mic Announcement, Open Mic]
 ---
 
 
-The next Open Mic session starts on Friday 25th April 2025 at 9:30
+The next Open Mic session starts on Friday 23rd May 2025 at 9:30
 at this link. Evgenii Grigorev will unpack how Large Language Models (LLMs)
 like GPT-4 and CodeLlama generate code, blending theory with real-world examples.
 
