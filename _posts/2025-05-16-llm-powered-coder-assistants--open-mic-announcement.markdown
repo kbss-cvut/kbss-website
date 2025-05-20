@@ -6,9 +6,11 @@ categories: [Open Mic Announcement, Open Mic]
 
 The next Open Mic session starts on Friday 23rd May 2025 at 9:30 at [this link](https://meet.jit.si/open-mic-kbss). Speaker [Evgenii Grigorev](https://fel.cvut.cz/cs/fakulta/lide/37026-evgenii-grigorev) will unpack how Large Language Models (LLMs) like GPT-4 and CodeLlama generate code, blending theory with real-world examples.
 
+{% include figure image_path="assets/images/posts/2025-05-22-llm-codeassistant.png" alt="LLM powered coder assistants" %}
+
 ##### Abstract
 
-Code-generating LLMs are not wizards — they’re sophisticated pattern matchers trained on terabytes of code. But how do they turn a prompt like "Sort this CSV by date and calculate weekly averages" into working Python? This session will demystify the 
+Code-generating LLMs are not wizards — they’re sophisticated pattern matchers trained on terabytes of code. But how do they turn a prompt like "Sort this CSV by date and calculate weekly averages" into working Python? This session will demystify the :
 
 * Core mechanics -- Transformers, attention layers, and tokenization
 * Training secrets: From GitHub scrapes to context-aware fine-tuning.
