@@ -7,7 +7,7 @@ excerpt: "Code-generating LLMs are powerful pattern matchers, not magic. This se
 On Friday 23 May 2025 Evgenii Grigorev held an Open Mic session with the topic \"LLM-Powered Coder Assistants\". Video and presentation included.
 
 
-{% include video id="-3uEKVppwo1g" provider="youtube" %}
+{% include video id="3uEKVppwo1g" provider="youtube" %}
 
 ##### Abstract
 
