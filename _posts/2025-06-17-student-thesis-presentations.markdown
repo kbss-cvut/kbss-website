@@ -16,7 +16,8 @@ presentation, and had a chance to compare their presentation with their peers.
 
 The topics included:
 
-- extensions of software libraries and tools developed at KBSS ([JOPA](https://github.com/kbss-cvut/jopa), [SPipes](https://github.com/kbss-cvut/s-pipes), [TermIt](http://kbss-cvut.github.io/termit-web))
+- extensions of software libraries and tools developed at
+  KBSS ([JOPA](https://github.com/kbss-cvut/jopa), [SForms](https://github.com/kbss-cvut/s-forms), [SPipes](https://github.com/kbss-cvut/s-pipes), [TermIt](http://kbss-cvut.github.io/termit-web))
 - Various domain applications (photo albums, theater management, etc.)
 
 The students also utilized a variety of technologies, including:
