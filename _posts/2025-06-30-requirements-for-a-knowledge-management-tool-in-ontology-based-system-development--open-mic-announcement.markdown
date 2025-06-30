@@ -7,7 +7,7 @@ The Open mic session starts on Friday, 4 July 2025, at 9:30 via [this link](http
 
 ##### Abstract
 
-At KBSS, we have developed numerous knowledge-based systems grounded in the conceptual modelling theory UFO [1] and ontology-related W3C standards, including RDF, RDFS, OWL2, and SKOS. Many of our projects involve close collaboration with domain experts. To facilitate the transfer of knowledge from domain experts to ontology engineers, we have created tools such as TermIt, which allows domain experts to capture domain knowledge, and Ontographer, which enables ontology engineers -- or technically proficient domain experts -- to construct conceptual models based on the knowledge asserted through TermIt.
+At KBSS, we have developed numerous knowledge-based systems grounded in the conceptual modelling theory UFO [1] and ontology-related W3C standards, including RDF, RDFS, OWL2, and SKOS. Many of our projects involve close collaboration with domain experts. To facilitate the transfer of knowledge from domain experts to ontology engineers, we have created tools such as [TermIt](https://kbss-cvut.github.io/termit-web), which allows domain experts to capture domain knowledge, and [Ontographer](https://ontographer.github.io/ontographer-demo/), which enables ontology engineers -- or technically proficient domain experts -- to construct conceptual models based on the knowledge asserted through TermIt.
 
 This presentation reviews several past and ongoing projects, highlights the main limitations of current tools, and outlines requirements for developing new or improving existing knowledge management tools in ontology-driven environments.
 
