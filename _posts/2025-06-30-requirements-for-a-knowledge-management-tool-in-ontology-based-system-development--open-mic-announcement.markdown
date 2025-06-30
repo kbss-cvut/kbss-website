@@ -3,29 +3,16 @@ title: "Upcoming Open Mic - Requirements for a Knowledge Management Tool in Onto
 categories: [Open Mic Announcement, Open Mic]
 ---
 
-
-<!-- Naming convention: post MUST be named beginning with YEAR-MM-DD-title.MARKDOWN. Create a COPY of this file in _posts and rename it according to the convention. The date is not date of presentation, but date of publication of the announcement. The title in human readable form is put in the quotes to the title parameter in front matter  -->
-<!-- Fixing content of this file:
-  - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
-    - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`
-    - OPEN_MIC_SESSION_DATE=`Friday 4 April 2023`
-  - remove all comments from this file
--->
-
-
-Content: Fill in when and where the next open mic session will take place. Remember, first paragraph is also an excerpt, so keep it short and informative.
-The best practice is: The Open mic session starts on Friday 4 July 2025 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about something really interesting.
-
-You may also include picture. For pictures, place them somewhere in assets/images/... and use following code:
+The Open mic session starts on Friday, 4 July 2025, at 9:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about requirements for a knowledge management tool in ontology-based projects relying heavily on inputs from domain experts.
 
 {% include figure image_path="/assets/images/path_to_the_image" alt="title on popup or when it cannot be shown" %}{: .align-right .profile-photo}
 
 
 ##### Abstract
 
-Text of the abstract will be here. It may be also as a short summary.
+At KBSS, we have developed numerous knowledge-based systems grounded in the conceptual modelling theory UFO [1] and ontology-related W3C standards, including RDF, RDFS, OWL2, and SKOS. Many of our projects involve close collaboration with domain experts. To facilitate the transfer of knowledge from domain experts to ontology engineers, we have created tools such as TermIt, which allows domain experts to capture domain knowledge, and Ontographer, which enables ontology engineers -- or technically proficient domain experts -- to construct conceptual models based on the knowledge asserted through TermIt.
 
-In the end, you may include further reading.
+This presentation reviews several past and ongoing projects, highlights the main limitations of current tools, and outlines requirements for developing new or improving existing knowledge management tools in ontology-driven environments.
 
 Further reading:
-* [Link text](https://linkadre.ss)
+* [1] Guizzardi, Giancarlo, et al. "UFO: Unified foundational ontology." Applied ontology 17.1 (2022): 167-210, online at [link](https://journals.sagepub.com/doi/pdf/10.3233/AO-210256?casa_token=WcQeXVI9CukAAAAA:Fha1fwVf7sTmCICGqo8Zdugw2ABVpyVYecTssMgajABKPijPKsajd7c8AHIivI2TRotCWZX3pJk)
