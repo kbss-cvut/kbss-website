@@ -5,9 +5,6 @@ categories: [Open Mic Announcement, Open Mic]
 
 The Open mic session starts on Friday, 4 July 2025, at 9:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about requirements for a knowledge management tool in ontology-based projects relying heavily on inputs from domain experts.
 
-{% include figure image_path="/assets/images/path_to_the_image" alt="title on popup or when it cannot be shown" %}{: .align-right .profile-photo}
-
-
 ##### Abstract
 
 At KBSS, we have developed numerous knowledge-based systems grounded in the conceptual modelling theory UFO [1] and ontology-related W3C standards, including RDF, RDFS, OWL2, and SKOS. Many of our projects involve close collaboration with domain experts. To facilitate the transfer of knowledge from domain experts to ontology engineers, we have created tools such as TermIt, which allows domain experts to capture domain knowledge, and Ontographer, which enables ontology engineers -- or technically proficient domain experts -- to construct conceptual models based on the knowledge asserted through TermIt.
