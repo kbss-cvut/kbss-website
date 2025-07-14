@@ -1,35 +1,22 @@
 ---
 title:  "Requirements for a Knowledge Management Tool in Ontology-Based System Development"
 categories: [Open Mic Session, Open Mic]
-excerpt: "Short description of the session topic that is displayed below the article header on the landing page."
+excerpt: "Requirements for a knowledge management tool in ontology-based projects relying heavily on inputs from domain experts."
 ---
 
-<!-- Fixing content of this file:
-  - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
-    - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`
-    - OPEN_MIC_SESSION_DATE=`Friday 4 April 2023`
-  - remove all comments from this file
--->
+On Friday, 4 July 2025 [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blasko) held an Open Mic session with the topic \"Requirements for a Knowledge Management Tool in Ontology-Based System Development\". Video and presentation included.
 
-First paragraph describes who, what and when. It shall contain something like: On Friday 4 July 2025 [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) held an Open Mic session with the topic \"Requirements for a Knowledge Management Tool in Ontology-Based System Development\". Video and presentation included.
-
-Then include video using following code:
-
-{% include video id="-UriTtvcnmE" provider="youtube" %}
-
-Video is uploaded to youtube by Michal. The id parameter is part of the link behind v=.
+{% include video id="xbdGcNciMXA" provider="youtube" %}
 
 ##### Abstract
 
-In the rest of the text, describe what was the presentation about, include some figures, link to the presentation (make sure it is shared with everyone with link) and you may also add some further reading.
+The presentation outlined the current tool stack used by KBSS for knowledge management in ontology-based system development, which depends heavily on input from domain experts. The primary tools — [TermIt](https://kbss-cvut.github.io/termit-web), [Ontographer](https://ontographer.github.io/ontographer-demo/), and [Protégé](https://protege.stanford.edu/) — are used by both domain experts and ontology engineers to build UFO-based [1] ontologies. Case studies in aircraft maintenance and reliability modeling highlighted challenges in knowledge extraction and formalization. Key use cases include extracting concepts and relations from documents, exploring knowledge within ontologies, formalizing tabular data, and rapid prototyping of digital forms. Several limitations of the existing tools were identified:
+- lack of support for custom IRIs across tools
+- poor synchronization between models of different tools
+- limited multilingual support within vocabularies
+- weak capabilities for searching and exploring developed ontologies
 
-Either link to figures online or upload them to assets/images/posts folder:
-{% include figure image_path="assets/images/posts/image-name.png" alt="description text" %}
-
-
-Upload the slides to https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e
-
-The presentation slides are available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
+The presentation slides are available [at this link](https://drive.google.com/file/d/1hv19U9v_Rtq9yuT0WDX4-MqPJjhrpNgR/view?usp=sharing).
 
 Further reading:
-* [Link text](https://linkadre.ss)
+* [1] Guizzardi, Giancarlo, et al. "UFO: Unified foundational ontology." Applied ontology 17.1 (2022): 167-210, online at [link](https://journals.sagepub.com/doi/pdf/10.3233/AO-210256?casa_token=WcQeXVI9CukAAAAA:Fha1fwVf7sTmCICGqo8Zdugw2ABVpyVYecTssMgajABKPijPKsajd7c8AHIivI2TRotCWZX3pJk)
