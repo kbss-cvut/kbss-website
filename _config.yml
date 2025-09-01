@@ -138,6 +138,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/kbss-cvut/"
+    - label: "Logo use"
+      icon: "fas fa-fw fa-link"
+      url: "https://kbss.felk.cvut.cz/logo"
 
 
 # Reading Files
