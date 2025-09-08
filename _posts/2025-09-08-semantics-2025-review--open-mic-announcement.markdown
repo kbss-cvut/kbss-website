@@ -13,19 +13,18 @@ categories: [Open Mic Announcement, Open Mic]
 -->
 
 
-Content: Fill in when and where the next open mic session will take place. Remember, first paragraph is also an excerpt, so keep it short and informative.
-The best practice is: The Open mic session starts on Friday 12 September 2025 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about something really interesting.
+The next Open mic session starts on Friday 12 September 2025 at 10:30 at [this link](https://meet.jit.si/open-mic-kbss). [Martin Ledvinka](https://kbss.felk.cvut.cz/web/team#martin-ledvinka) is going to talk about interesting talks presented at the Semantics 2025 conference.
 
-You may also include picture. For pictures, place them somewhere in assets/images/... and use following code:
-
-{% include figure image_path="/assets/images/path_to_the_image" alt="title on popup or when it cannot be shown" %}{: .align-right .profile-photo}
+{% include figure image_path="/assets/images/openmics/2025-09-12-semantics2025-logo.png" alt="Semantics 2025 logo" %}
 
 
 ##### Abstract
 
-Text of the abstract will be here. It may be also as a short summary.
+We presented a short paper about [TermIt](http://kbss-cvut.github.io/termit-web) at the [Developers Workshop](https://semantics2025.semdev.org/)
+of the Semantics 2025 conference. Let us discuss some other interesting topics that were presented at the conference.
 
-In the end, you may include further reading.
+Namely:
 
-Further reading:
-* [Link text](https://linkadre.ss)
+* [QLever](https://qlever.dev/) SPARQL query engine
+* [Jelly](https://jelly-rdf.github.io/dev/) RDF binary serialization format
+
