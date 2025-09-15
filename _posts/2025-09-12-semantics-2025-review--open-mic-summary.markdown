@@ -20,22 +20,17 @@ conference.
 
 ###### QLever
 
-QLever is a SPARQL query engine written in C++ boasting impressive performance numbers compared to SPARQL engines that
+[QLever](https://qlever.dev/) is a SPARQL query engine written in C++ boasting impressive performance numbers compared to SPARQL engines that
 are a part of existing triple stores.
 
 We discuss its pros and cons, especially w.r.t. our use cases.
 
 ###### Jelly
 
-Jelly is an RDF binary serialization format and protocol designed for high performance and compression suitable for
+[Jelly](https://jelly-rdf.github.io/dev/) is an RDF binary serialization format and protocol designed for high performance and compression suitable for
 streaming scenarios.
 
 We discuss its usability in scenarios with RDF4J and do a quick demo.
 
 The presentation slides are
 available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
-
-**Further reading**:
-
-* [QLever](https://qlever.dev/) SPARQL query engine
-* [Jelly](https://jelly-rdf.github.io/dev/) RDF binary serialization format
