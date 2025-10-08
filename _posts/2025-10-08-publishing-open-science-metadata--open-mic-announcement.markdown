@@ -13,7 +13,8 @@ categories: [Open Mic Announcement, Open Mic]
 -->
 The Open mic session starts on Friday 10 October 2025 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) presents outputs of his work on metadata profile for Czech cell of European Open Science Cloud.
 
-{% include figure image_path="/assets/images/openmics/2025-10-10-eosc.png" alt="Czech cell of EOSC %}{: .align-right .profile-photo}
+{% include figure image_path="/assets/images/openmics/2025-10-10-eosc.png" alt="Czech cell of EOSC" %}
+
 
 ##### Abstract
 
