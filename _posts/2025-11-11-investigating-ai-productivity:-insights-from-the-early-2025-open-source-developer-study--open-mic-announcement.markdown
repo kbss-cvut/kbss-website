@@ -3,7 +3,7 @@ title: "Upcoming Open Mic - Investigating AI Productivity: Insights from the Ear
 categories: [Open Mic Announcement, Open Mic]
 ---
 
-The Open mic session starts on Tuesday, 14 October 2025, at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about the findings from the METR study “Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity” (July 2025), which should be followed by a discussion on the implications for software engineering.
+The Open mic session starts on Friday, 14 November 2025, at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about the findings from the METR study “Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity” (July 2025), which should be followed by a discussion on the implications for software engineering.
 
 ##### Abstract
 
