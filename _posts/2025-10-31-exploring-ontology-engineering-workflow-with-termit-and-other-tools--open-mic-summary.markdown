@@ -13,7 +13,7 @@ excerpt: "Short description of the session topic that is displayed below the art
 
 On Friday 31 October 2025 [Bogdan Kostov](https://kbss.felk.cvut.cz/web/team#bogdan-kostov) held an Open Mic session with the topic \"Exploring Ontology Engineering Workflow with TermIt and Other Tools\". Video and presentation included.
 
-{% include video id="-UriTtvcnmE" provider="youtube" %}
+{% include video id="WFVYKouaRR8" provider="youtube" %}
 
 ##### Abstract
 
