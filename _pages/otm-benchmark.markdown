@@ -22,7 +22,7 @@ The benchmark framework can be used to measure:
 - Performance of OTM libraries
 - Memory utilization of OTM libraries
 
-It is available at https://github.com/kbss-cvut/otm-benchmark.
+It is available at [https://github.com/kbss-cvut/otm-benchmark](https://github.com/kbss-cvut/otm-benchmark).
 
 An OTM library comparison paper including this benchmark has been published in the [Semantic Web journal](http://www.semantic-web-journal.net/content/comparison-object-triple-mapping-libraries) [1].
 
