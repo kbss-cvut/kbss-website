@@ -4,32 +4,21 @@ categories: [Open Mic Session, Open Mic]
 excerpt: "Short description of the session topic that is displayed below the article header on the landing page."
 ---
 
-<!-- Fixing content of this file:
-  - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
-    - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`
-    - OPEN_MIC_SESSION_DATE=`Friday 4 April 2023`
-  - remove all comments from this file
--->
-
-First paragraph describes who, what and when. It shall contain something like: On Friday 14 November 2025 [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) held an Open Mic session with the topic \"Investigating AI Productivity: Insights from the Early-2025 Open-Source Developer Study\". Video and presentation included.
-
-Then include video using following code:
+On Friday 14 November 2025 [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) held an Open Mic session with the topic \"Investigating AI Productivity: Insights from the Early-2025 Open-Source Developer Study\". Video and presentation included.
 
 {% include video id="-UriTtvcnmE" provider="youtube" %}
 
-Video is uploaded to youtube by Michal. The id parameter is part of the link behind v=.
 
 ##### Abstract
 
-In the rest of the text, describe what was the presentation about, include some figures, link to the presentation (make sure it is shared with everyone with link) and you may also add some further reading.
+The session presented selected findings from a randomized controlled trial conducted by the organization METR (Model Evaluation and Threat Research). The study recruited 16 experienced open-source developers—each with long-term familiarity with their repositories—to complete 246 issue tasks. Each task was randomly assigned to either allow or disallow the use of state-of-the-art AI development tools (e.g., Cursor Pro with Claude 3.5/3.7) in early 2025. Contrary to prevailing expectations, the study found that developers using AI tools took, on average, 19% longer to complete tasks than those working without AI. Developers had initially predicted a 24% speed-up, and even after experiencing the slowdown, they continued to believe they had improved by roughly 20%. 
 
-Either link to figures online or upload them to assets/images/posts folder:
-{% include figure image_path="assets/images/posts/image-name.png" alt="description text" %}
+Beyond the key findings, the session also examined annotated screen recordings to pinpoint where the slowdown occurred and discussed the most likely contributing factors. In the final section, the session considered how up-to-date the results remain, given the significant improvements in AI tools since the study period. Current tools exhibit higher accuracy and tighter IDE integration, enabling more effective solution searches with reduced interaction and increased support from multiple cooperating agents. The session concluded with a discussion of how these insights could be applied to the use cases of the KBSS (Knowledge-based Systems and Software) research group.
 
-
-Upload the slides to https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e
-
-The presentation slides are available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
+The presentation slides are available [at this link](https://drive.google.com/file/d/1sf0SZHMqLdlqB2FMUjAW6DYV7XleesQf/view?usp=drive_link).
 
 Further reading:
-* [Link text](https://linkadre.ss)
+* [Becker, J., Rush, N., Barnes, E., Rein, D. “Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity.” METR blog post (10 July 2025).](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
+* [Becker, J., Rush, N., Barnes, E., & Rein, D. (2025). Measuring the impact of early-2025 AI on experienced open-source developer productivity. Full paper arXiv preprint arXiv:2507.09089.](https://arxiv.org/abs/2507.09089)
+
+
