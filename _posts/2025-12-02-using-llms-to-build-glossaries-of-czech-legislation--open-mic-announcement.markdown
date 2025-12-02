@@ -1,31 +1,30 @@
 ---
 title: "Upcoming Open Mic - Using LLMs to build glossaries of Czech legislation"
-categories: [Open Mic Announcement, Open Mic]
+categories: [ Open Mic Announcement, Open Mic ]
 ---
 
 
-<!-- Naming convention: post MUST be named beginning with YEAR-MM-DD-title.MARKDOWN. Create a COPY of this file in _posts and rename it according to the convention. The date is not date of presentation, but date of publication of the announcement. The title in human readable form is put in the quotes to the title parameter in front matter  -->
-<!-- Fixing content of this file:
-  - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
-    - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`
-    - OPEN_MIC_SESSION_DATE=`Friday 4 April 2023`
-  - remove all comments from this file
--->
+On Friday 12 December 2025 at 10:30 [Martin Ledvinka](https://kbss.felk.cvut.cz/web/team#martin-ledvinka) will talk
+about his experiments with extracting glossaries of Czech legislative documents using LLMs. You can join us
+at [this link](https://meet.jit.si/open-mic-kbss).
 
-
-Content: Fill in when and where the next open mic session will take place. Remember, first paragraph is also an excerpt, so keep it short and informative.
-The best practice is: The Open mic session starts on Friday 12 December 2025 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about something really interesting.
-
-You may also include picture. For pictures, place them somewhere in assets/images/... and use following code:
-
-{% include figure image_path="/assets/images/path_to_the_image" alt="title on popup or when it cannot be shown" %}{: .align-right .profile-photo}
-
+{% include figure
+image_path="https://user-images.githubusercontent.com/1140626/118179053-109e2c80-b435-11eb-9400-e960efecc284.png" alt="
+Network of glossaries in SSP" %}{:
+.align-right .profile-photo}
 
 ##### Abstract
 
-Text of the abstract will be here. It may be also as a short summary.
+For several years, there has been an effort to build a knowledge base of Czech legislation (and similar normative
+documents).
+This knowledge base consists of glossaries of terms used in the documents and, in some cases, also ontological models
+representing deeper relationships between the terms. However, creation of such artifacts has been purely manual work,
+requiring a lot of time and expertise.
 
-In the end, you may include further reading.
+In this talk, I will present my experiments with using LLMs to extract glossaries from Czech legislative documents. I
+will discuss the approach, sketch the pipeline that could be used for a large-scale application, and present initial
+results of the experiments.
 
-Further reading:
-* [Link text](https://linkadre.ss)
+Related links:
+
+* [Semantic vocabulary of terms of the e-Government](https://datagov-cz.github.io/ssp/)
