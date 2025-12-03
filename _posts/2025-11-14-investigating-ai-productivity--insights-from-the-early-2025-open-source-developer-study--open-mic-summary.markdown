@@ -1,7 +1,6 @@
 ---
 title:  "Investigating AI Productivity: Insights from the Early-2025 Open-Source Developer Study"
 categories: [Open Mic Session, Open Mic]
-excerpt: "Short description of the session topic that is displayed below the article header on the landing page."
 ---
 
 On Friday, 14 November 2025, [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) held an Open Mic session with the topic \"Investigating AI Productivity: Insights from the Early-2025 Open-Source Developer Study\". Video and presentation included.
