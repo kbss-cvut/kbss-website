@@ -31,7 +31,7 @@ automation, and the output of this pipeline can be used as a seed for creating m
 terms defined implicitly by the document.
 
 The presentation slides are
-available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
+available [at this link](https://docs.google.com/presentation/d/1LcXMLDop0O06gK7EJh_5YrE7TkJfZ6AzbZKjEgxr19Y/edit?usp=sharing).
 
 Further reading:
 
