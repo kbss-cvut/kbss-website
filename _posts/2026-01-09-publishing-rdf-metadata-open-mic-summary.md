@@ -4,7 +4,7 @@ categories: [ Open Mic Summary, Open Mic ]
 excerpt: "Showcase of a metadata management and publishing environment Piveau in the context of need for publishing and metadata discovery environment for scientific metadata described by DCAT based metadata profiles."
 ---
 
-On Friday 9th January 2026 at 10:30 [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) talked about effective publishing of RDF based metadata (based on RDF top level vocabularies for metadata description, such as SKOS, Dublin Core, DCAT etc.).
+On Friday, 9th January 2026, at 10:30, [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) talked about effective publishing of RDF-based metadata (based on RDF top-level vocabularies for metadata description, such as SKOS, Dublin Core, DCAT, etc.).
 
 {% include video id="KxzXAqyGTGo" provider="youtube" %}
 
