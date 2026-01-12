@@ -10,7 +10,7 @@ On Friday 9th January 2026 at 10:30 [Michal Med](https://kbss.felk.cvut.cz/web/t
 
 ##### Problem definition
 
-The current approachon research data leads to the need of catalogue solution, that will be able to consume RDF-based metadata regardless its nature - whether it is book, map, manuscript, material data observation or chemical experiment protocol. In [one of the previous open mic sessions](https://kbss.felk.cvut.cz/web/publishing-open-science-metadata-open-mic-summary) we have introduced Czech Core Metadata Model -- a DCAT extension metadata profile designed to describe common properties of research data with possibility to be exteded for the needs of specific scientifiec fields.
+The current approach to research data leads to the need for a catalogue solution, which will be able to consume RDF-based metadata regardless of its nature - whether it is a book, a map, a manuscript, material data observation, or a chemical experiment protocol. In [one of the previous open mic sessions](https://kbss.felk.cvut.cz/web/publishing-open-science-metadata-open-mic-summary) we have introduced Czech Core Metadata Model -- a DCAT extension metadata profile designed to describe common properties of research data with possibility to be exteded for the needs of specific scientifiec fields.
 
 {% include figure image_path="./assets/images/posts/2026-01-09-research-data-jungle.png" alt="Research data jungle" %}
 
