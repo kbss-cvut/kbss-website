@@ -26,6 +26,8 @@ In this talk, we took a specific data management ecosystem called Piveau [4] as 
 
 The talk described the multilevel architecture of the environment, consisting of a storage part (Hub), a harvesting part (Consus), and validation and reporting tools (Metrics). In the practical part, it is shown how to create a catalogue, import metadata, or harvest it from a remote catalogue. Piveau is based on Virtuoso triple store and DCAT-based metadata profiles, allows user management using Keycloak, and indexing in Elasticsearch. Typical flow starts with original resources, harvesting them, analysing and discovering them, and reusing them in other tools, such as statistical dashboards. Most of the tools use UI only for end users, catalogue and metadata management is usually done using API, described in Piveau hub-repo service.
 
+Presentation slides can be found [here](https://docs.google.com/presentation/d/1_dOy09fzOBS9FO8dlwHN-2_sKqKqw1Y8/edit?usp=sharing&ouid=114555206856699416195&rtpof=true&sd=true).
+
 Related links:
 
 1. [SKOS](https://www.w3.org/TR/skos-reference/)
