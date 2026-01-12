@@ -14,7 +14,7 @@ The current approach to research data leads to the need for a catalogue solution
 
 {% include figure image_path="./assets/images/posts/2026-01-09-research-data-jungle.png" alt="Research data jungle" %}
 
-But as the researchers provide the metadata in RDF based serializations of CCMM and DCAT(-AP), there is still a need to catalogize the metadata in RDF based catalogue, that allows to use the capabilites of RDF approach, such as searching the domain specific metadata properties. Many 'catalogues' are now based on the dataset repositories (!), that flatten the graph metadata model and are then very uneffective in discovery, searching and statistical dashboards. 
+But as the researchers provide the metadata in RDF-based serializations of CCMM and DCAT(-AP), there is still a need to catalogize the metadata in an RDF-based catalogue, which allows the use of the capabilities of the RDF approach, such as searching the domain-specific metadata properties. Many 'catalogues' are now based on the dataset repositories (!), which flatten the graph metadata model and are then very ineffective in discovery, searching, and statistical dashboards. 
 
 The problem may be defined as looking for effective way to publish machine readable metadata in a catalogue that allows lossless discovery of all relevant information for various purposes, from finding relevant data to overall statistics about published data, creating dashboards and reusing and interconnecting data.
 
