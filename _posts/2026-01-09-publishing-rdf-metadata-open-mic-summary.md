@@ -6,7 +6,7 @@ excerpt: "Showcase of a metadata management and publishing environment Piveau in
 
 On Friday, 9th January 2026, at 10:30, [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) talked about effective publishing of RDF-based metadata (based on RDF top-level vocabularies for metadata description, such as SKOS, Dublin Core, DCAT, etc.).
 
-{% include video id="KxzXAqyGTGo" provider="youtube" %}
+{% include video id="Xi-RYYpiz5o" provider="youtube" %}
 
 ##### Problem definition
 
