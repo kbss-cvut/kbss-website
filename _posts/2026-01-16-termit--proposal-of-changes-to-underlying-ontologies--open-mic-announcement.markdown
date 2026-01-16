@@ -1,31 +1,27 @@
 ---
 title: "Upcoming Open Mic - TermIt: proposal of changes to underlying ontologies"
-categories: [Open Mic Announcement, Open Mic]
+categories: [ Open Mic Announcement, Open Mic ]
 ---
 
-
-<!-- Naming convention: post MUST be named beginning with YEAR-MM-DD-title.MARKDOWN. Create a COPY of this file in _posts and rename it according to the convention. The date is not date of presentation, but date of publication of the announcement. The title in human readable form is put in the quotes to the title parameter in front matter  -->
-<!-- Fixing content of this file:
-  - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
-    - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`
-    - OPEN_MIC_SESSION_DATE=`Friday 4 April 2023`
-  - remove all comments from this file
--->
-
-
-Content: Fill in when and where the next open mic session will take place. Remember, first paragraph is also an excerpt, so keep it short and informative.
-The best practice is: The Open mic session starts on Friday 23 January 2026 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about something really interesting.
-
-You may also include picture. For pictures, place them somewhere in assets/images/... and use following code:
-
-{% include figure image_path="/assets/images/path_to_the_image" alt="title on popup or when it cannot be shown" %}{: .align-right .profile-photo}
-
+On Friday 23 January 2026 at 10:30 [Martin Ledvinka](https://kbss.felk.cvut.cz/web/team#martin-ledvinka) is going to
+talk about proposed changes to the ontologies underlying TermIt.
+Join the session at [this link](https://meet.jit.si/open-mic-kbss).
 
 ##### Abstract
 
-Text of the abstract will be here. It may be also as a short summary.
+[TermIt](https://github.com/kbss-cvut/termit) is a [SKOS](https://www.w3.org/TR/skos-primer/)-compatible terminology
+management system developed by the [KBSS](https://kbss.felk.cvut.cz/).
+It was created with a certain methodology in mind. However, several use cases and years of real-world experience present
+a chance to update the ontologies underlying TermIt to better reflect the needs of users and to increase the system's
+potential into the future.
 
-In the end, you may include further reading.
+In this talk, we will discuss:
+
+* Translation of the ontologies underlying TermIt into English
+* Simplification of the vocabulary-glossary-model construct
+* Implications of the proposed changes to existing deployments
 
 Further reading:
-* [Link text](https://linkadre.ss)
+
+* [TermIt: Managing Normative Thesauri](https://content.iospress.com/articles/semantic-web/sw243547)
+* [Popis dat ontology](https://github.com/kbss-cvut/popis-dat-ontology)
