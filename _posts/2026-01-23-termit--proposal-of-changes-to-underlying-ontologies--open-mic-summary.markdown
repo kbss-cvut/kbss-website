@@ -1,7 +1,7 @@
 ---
 title:  "TermIt: proposal of changes to underlying ontologies"
 categories: [Open Mic Session, Open Mic]
-excerpt: "Short description of the session topic that is displayed below the article header on the landing page."
+excerpt: "We discuss the proposed changes to the ontologies underlying TermIt and how they will affect existing data"
 ---
 
 <!-- Fixing content of this file:
@@ -11,25 +11,30 @@ excerpt: "Short description of the session topic that is displayed below the art
   - remove all comments from this file
 -->
 
-First paragraph describes who, what and when. It shall contain something like: On Friday 23 January 2026 [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) held an Open Mic session with the topic \"TermIt: proposal of changes to underlying ontologies\". Video and presentation included.
+On Friday 23 January 2026 [Martin Ledvinka](https://kbss.felk.cvut.cz/web/team#martin-ledvinka) held an Open Mic
+session with the topic \"TermIt: proposal of changes to underlying ontologies.\"
 
-Then include video using following code:
-
-{% include video id="-UriTtvcnmE" provider="youtube" %}
-
-Video is uploaded to youtube by Michal. The id parameter is part of the link behind v=.
+{% include video id="LrU3Mgumg_g" provider="youtube" %}
 
 ##### Abstract
 
-In the rest of the text, describe what was the presentation about, include some figures, link to the presentation (make sure it is shared with everyone with link) and you may also add some further reading.
+[TermIt](https://github.com/kbss-cvut/termit) is a [SKOS](https://www.w3.org/TR/skos-primer/)-compatible terminology
+management system developed by the [KBSS](https://kbss.felk.cvut.cz/).
+It was created with a certain methodology in mind. However, several use cases and years of real-world experience present
+have shown the methodology needs to be updated, requiring changes to the ontologies underlying TermIt.
 
-Either link to figures online or upload them to assets/images/posts folder:
-{% include figure image_path="assets/images/posts/image-name.png" alt="description text" %}
+In this session, we discuss what these changes are and in particular how they will affect existing deployments of TermIt.
+
+The changes discussed are:
+
+* Translation of the ontologies underlying TermIt into English
+* Simplification of the vocabulary-glossary-model construct
 
 
-Upload the slides to https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e
+The presentation slides are available [at this link](https://docs.google.com/presentation/d/11w230_Lk_mBoDu1KbOHVg6pGCQLgg9-PhrRUz98z9l8/edit?usp=sharing).
 
-The presentation slides are available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
+###### Further reading:
 
-Further reading:
-* [Link text](https://linkadre.ss)
+* [TermIt: Managing Normative Thesauri](https://content.iospress.com/articles/semantic-web/sw243547)
+* [Popis dat ontology](https://github.com/kbss-cvut/popis-dat-ontology)
+* [SKOS](https://www.w3.org/TR/skos-primer/)
