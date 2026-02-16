@@ -3,8 +3,9 @@ title: "Upcoming Open Mic - Generating Synthetic Event Report Data for Software 
 categories: [Open Mic Announcement, Open Mic]
 ---
 
-Content: Fill in when and where the next open mic session will take place. Remember, first paragraph is also an excerpt, so keep it short and informative.
-The best practice is: The Open mic session starts on Saturday 21 February 2026 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Bogdan Kostov](https://kbss.felk.cvut.cz/web/team#bogdan-kostov) is going to talk about case for generating event report data for the evaluation of dashboard application.
+On Friday 20 February 2026 at 10:30 [Bogdan Kostov](https://kbss.felk.cvut.cz/web/team#bogdan-kostov) is going to talk about case for generating event report data for the evaluation of a dashboard application.
+
+Join the session at [this link](https://meet.jit.si/open-mic-kbss).
 
 ##### Abstract
 Real world data is required to evaluate different scenarios of a information/data software system. However, real world data are often not available to developers due to privacy and scarcity issues. This session will start with an introduction to data generation and a brief review of data generation techniques. The rest of the session summarizes a case for generation of safety-event report data to demonstrate/evaluate a dashboard application for monitoring safety indicators. 
