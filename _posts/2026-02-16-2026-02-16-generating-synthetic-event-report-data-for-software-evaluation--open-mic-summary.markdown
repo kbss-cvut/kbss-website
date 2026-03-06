@@ -1,7 +1,7 @@
 ---
-title:  "2026-02-16-generating-synthetic-event-report-data-for-software-evaluation"
+title:  "Generating Synthetic Event Report Data for Software Evaluation"
 categories: [Open Mic Session, Open Mic]
-excerpt: "Short description of the session topic that is displayed below the article header on the landing page."
+excerpt: "Introduction on how to generate data for testing/evaluating software."
 ---
 
 <!-- Fixing content of this file:
@@ -11,25 +11,19 @@ excerpt: "Short description of the session topic that is displayed below the art
   - remove all comments from this file
 -->
 
-First paragraph describes who, what and when. It shall contain something like: On Monday 16 February 2026 [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) held an Open Mic session with the topic \"2026-02-16-generating-synthetic-event-report-data-for-software-evaluation\". Video and presentation included.
+On Friday 20 February 2026 [Bogdan Kostov](https://kbss.felk.cvut.cz/web/team#bogdan-kostov) held an Open Mic
+session with the topic \"Generating Synthetic Event Report Data for Software Evaluation\"
 
-Then include video using following code:
-
-{% include video id="-UriTtvcnmE" provider="youtube" %}
-
-Video is uploaded to youtube by Michal. The id parameter is part of the link behind v=.
+{% include video id="EiIYza2bPNo" provider="youtube" %}
 
 ##### Abstract
+Real world data is required to evaluate different scenarios of an information/data software system. However, real world data are often not available to developers due to privacy, security and scarcity issues. This session will start with an introduction to data generation and a brief review of data generation techniques. The rest of the session summarizes a case for generation of safety-event report data to demonstrate/evaluate a dashboard application for monitoring safety indicators. 
 
-In the rest of the text, describe what was the presentation about, include some figures, link to the presentation (make sure it is shared with everyone with link) and you may also add some further reading.
-
-Either link to figures online or upload them to assets/images/posts folder:
-{% include figure image_path="assets/images/posts/image-name.png" alt="description text" %}
-
-
-Upload the slides to https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e
-
-The presentation slides are available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
+The presentation slides are available [at this link](https://docs.google.com/presentation/d/1JbQq1KaY8qHNTqc_4YlJ8SNzyq1mqagAcPyp5TVT-xY/edit?usp=sharing).
 
 ###### Further reading:
-* [Link text](https://linkadre.ss)
+* Memesis - data generation tool - https://mimesis.name/master/
+* Synthetic Data Vault - data generation tool https://docs.sdv.dev/sdv://docs.sdv.dev/sdv
+* Faker - data generation tool - https://faker.readthedocs.io/en/master/
+* SafetyPerformance (https://github.com/kbss-cvut/24lkpr-distribution) - dashboard application for monitoring safety indicators 
+* Goyal, M.; Mahmoud, Q.H. A Systematic Review of Synthetic Data Generation Techniques Using Generative AI. Electronics 2024, 13, 3509. https://doi.org/10.3390/electronics13173509
