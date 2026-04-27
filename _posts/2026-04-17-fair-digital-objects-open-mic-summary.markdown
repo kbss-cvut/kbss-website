@@ -17,7 +17,7 @@ FAIR Principles were introduced in 2016 in order to provide guidelines to improv
 ##### FAIR Digital Objects
 As FAIR Principles are concepts giving the way where to go, there are no technical specifications on how to implement them. To turn the principles into the deployable architecture, the FAIR Digital Objects (FDOs) were introduced. FAIR Digital Objects are representing data as active autonomous units identified uniquely with persistent ID, described with semantically rich metadata and published in accordance with FAIR principles.
 
-{% include figure image_path="../assets/images/posts/2026-04-17-smart-container.png" alt="Research data jungle" %}
+{% include figure image_path="./assets/images/posts/2026-04-17-smart-container.png" alt="Research data jungle" %}
 
 
 An often used metaphor describes FDO as a smart shipping container with a bar code, which can be read by any shipyard crane in the world and with a manifest telling clearly what is inside the container and how to handle it properly. 
