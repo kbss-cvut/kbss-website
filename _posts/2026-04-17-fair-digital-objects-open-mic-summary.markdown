@@ -20,7 +20,7 @@ As FAIR Principles are concepts giving the way where to go, there are no technic
 {% include figure image_path="../assets/images/posts/2026-04-17-smart-container.png" alt="Research data jungle" %}
 
 
-An often used metaphor describes FDO as a smart shipping container with a bar code, which can be read by any shipyard crane in the world and with a manifest telling clarly what is inside the container and how to handle it properly. 
+An often used metaphor describes FDO as a smart shipping container with a bar code, which can be read by any shipyard crane in the world and with a manifest telling clearly what is inside the container and how to handle it properly. 
 
 Presentation slides are available [here](https://drive.google.com/file/d/1qSl2PoBuJuOxyD_cFwGUZybwF660-s_x/view?usp=drive_link).
 
