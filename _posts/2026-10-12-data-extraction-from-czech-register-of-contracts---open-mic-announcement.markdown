@@ -4,28 +4,18 @@ categories: [Open Mic Announcement, Open Mic]
 ---
 
 
-<!-- Naming convention: post MUST be named beginning with YEAR-MM-DD-title.MARKDOWN. Create a COPY of this file in _posts and rename it according to the convention. The date is not date of presentation, but date of publication of the announcement. The title in human readable form is put in the quotes to the title parameter in front matter  -->
-<!-- Fixing content of this file:
-  - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
-    - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`
-    - OPEN_MIC_SESSION_DATE=`Friday 4 April 2023`
-  - remove all comments from this file
--->
-
-
-Content: Fill in when and where the next open mic session will take place. Remember, first paragraph is also an excerpt, so keep it short and informative.
-The best practice is: The Open mic session starts on Friday 16 October 2026 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about something really interesting.
-
-You may also include picture. For pictures, place them somewhere in assets/images/... and use following code:
-
-{% include figure image_path="/assets/images/path_to_the_image" alt="title on popup or when it cannot be shown" %}{: .align-right .profile-photo}
-
+The Open mic session starts on Friday 16 October 2026 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about own tools and techniques to extract data from Czech Regiter of Contracts (Registr smluv).
 
 ##### Abstract
 
-Text of the abstract will be here. It may be also as a short summary.
+The Czech Register of Contracts (Registr smluv) is a public registry where Czech public-sector bodies must publish their contracts worth more than CZK 50,000. It is a rich source of information on public spending, but most of it is locked in PDFs. Since July 2016, the register has collected almost 10 million records (contract versions). Their metadata (parties, subject, value, dates, amendments) is structured, but the numbers that matter, such as prices, quantities and places, are only in the attachments.
 
-In the end, you may include further reading.
+As part of a research project, we are developing a tool that extracts data from the register into a relational database. On top of it, we plan to build text-to-SQL question answering over the contracts, supported by a knowledge base that describes the database schema. In the talk, I will describe the characteristics of this dataset and the techniques we use to extract data from it. I will also demonstrate the current state of the tool: for a selected set of contracts (e.g. all contracts of one organisation), it downloads metadata and attachments, converts PDFs to Markdown, normalises the metadata into tables, classifies the contracts by activity, and extracts values with a language model, each backed by a verbatim quote and page number.
+
+
+The presentation 
 
 ###### Further reading:
-* [Link text](https://linkadre.ss)
+* [Registr smluv](https://smlouvy.gov.cz) – the register's portal
+* [Open data of the register](https://data.smlouvy.gov.cz) – monthly XML dumps
+* [Hlídač státu](https://www.hlidacstatu.cz/) – independent portal with full-text search over the register
