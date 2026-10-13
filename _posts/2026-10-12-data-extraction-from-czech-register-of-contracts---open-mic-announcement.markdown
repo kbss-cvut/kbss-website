@@ -4,7 +4,7 @@ categories: [Open Mic Announcement, Open Mic]
 ---
 
 
-The Open mic session starts on Friday 16 October 2026 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about own tools and techniques to extract data from Czech Regiter of Contracts (Registr smluv).
+The Open mic session starts on Friday 16th October 2026 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#miroslav-blaško) is going to talk about own tools and techniques to extract data from Czech Regiter of Contracts (Registr smluv).
 
 ##### Abstract
 
