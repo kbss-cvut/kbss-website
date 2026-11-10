@@ -3,7 +3,7 @@ title: "Upcoming Open Mic - What is new in RDF 1.2"
 categories: [Open Mic Announcement, Open Mic]
 ---
 
-On Friday 13 November 2026 at 09:30 [Martin Ledvinka](https://kbss.felk.cvut.cz/web/team#martin-ledvinka) is going to
+On Friday 13 November 2026 at 11:30 [Martin Ledvinka](https://kbss.felk.cvut.cz/web/team#martin-ledvinka) is going to
 talk about the changes in RDF 1.2 and its serializations, and in SPARQL 1.2.
 Join the session at [this link](https://meet.jit.si/open-mic-kbss).
 
