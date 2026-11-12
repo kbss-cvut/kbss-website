@@ -13,8 +13,6 @@ The Czech Register of Contracts (Registr smluv) is a public registry where Czech
 As part of a research project, we are developing a tool that extracts data from the register into a relational database. On top of it, we plan to build text-to-SQL question answering over the contracts, supported by a knowledge base that describes the database schema. In the talk, I will describe the characteristics of this dataset and the techniques we use to extract data from it. I will also demonstrate the current state of the tool: for a selected set of contracts (e.g. all contracts of one organisation), it downloads metadata and attachments, converts PDFs to Markdown, normalises the metadata into tables, classifies the contracts by activity, and extracts values with a language model, each backed by a verbatim quote and page number.
 
 
-The presentation 
-
 ###### Further reading:
 * [Registr smluv](https://smlouvy.gov.cz) – the register's portal
 * [Open data of the register](https://data.smlouvy.gov.cz) – monthly XML dumps
