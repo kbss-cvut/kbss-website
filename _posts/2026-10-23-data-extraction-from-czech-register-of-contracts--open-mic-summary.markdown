@@ -8,6 +8,8 @@ On Friday 23 October 2026 [Miroslav Blaško](https://kbss.felk.cvut.cz/web/team#
 
 {% include video id="j1J-IbLZiaM" provider="youtube" %}
 
+The recording is also available [on YouTube](https://youtube.com/live/j1J-IbLZiaM).
+
 ##### Abstract
 
 The talk presented the first step towards knowledge-based question answering over the [Czech Register of Contracts](https://smlouvy.gov.cz), which consists mostly of PDF documents: understanding the corpus and extracting a relational model from the text of the contracts, demonstrated on the use case of a reinsurance company assessing risks in forestry.
