@@ -1,35 +1,33 @@
 ---
 title:  "What is new in RDF 1.2"
 categories: [Open Mic Session, Open Mic]
-excerpt: "Short description of the session topic that is displayed below the article header on the landing page."
+excerpt: "We discuss the changes in RDF 1.2 and how they affect existing data, especially in connection to RDF-star."
 ---
 
-<!-- Fixing content of this file:
-  - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
-    - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`
-    - OPEN_MIC_SESSION_DATE=`Friday 4 April 2023`
-  - remove all comments from this file
--->
+On Friday 13 November 2026 [Martin Ledvinka](https://kbss.felk.cvut.cz/web/team#martin-ledvinka) held an Open Mic
+session with the topic \"What is new in RDF 1.2.\"
 
-First paragraph describes who, what and when. It shall contain something like: On Friday 13 November 2026 [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) held an Open Mic session with the topic \"What is new in RDF 1.2\". Video and presentation included.
-
-Then include video using following code:
-
-{% include video id="-UriTtvcnmE" provider="youtube" %}
-
-Video is uploaded to youtube by Michal. The id parameter is part of the link behind v=.
+{% include video id="asrhuSZOoeA" provider="youtube" %}
 
 ##### Abstract
 
-In the rest of the text, describe what was the presentation about, include some figures, link to the presentation (make sure it is shared with everyone with link) and you may also add some further reading.
+RDF 1.2 is the forthcoming version of the Resource Description Framework W3C standard. We discuss the changes it brings
+based on the current draft which is already implemented in software libraries such as Jena and RDF4J (both in version 6).
+In particular, we are interested in how RDF-star, a community proposal for annotating RDF statements, is replaced by
+RDF 1.2 reification with enhanced syntax.
 
-Either link to figures online or upload them to assets/images/posts folder:
-{% include figure image_path="assets/images/posts/image-name.png" alt="description text" %}
+{% include figure image_path="assets/images/openmics/2026-11-13-rdf-star.png" alt="RDF-star example visualization" caption="RDF-star example" %}
 
+Similarly, we discuss how SPARQL 1.2 - the next version of the SPARQL query language - adjusts to these changes and how
+it retains parts of SPARQL-star syntax.
 
-Upload the slides to https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e
+{% include figure image_path="assets/images/openmics/2026-11-13-rdf_12.png" alt="RDF 1.2 reification example visualization" caption="RDF 1.2 example" %}
 
-The presentation slides are available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
+The presentation slides are available [at this link](https://drive.google.com/drive/folders/1ziadF6QcDG5z1a0mshuDNbAlmtMtFJjN?usp=sharing).
 
 ###### Further reading:
-* [Link text](https://linkadre.ss)
+- [RDF 1.2](https://www.w3.org/TR/rdf12-concepts)
+- [SPARQL 1.2](https://www.w3.org/TR/sparql12-query)
+- [Turtle 1.2](https://www.w3.org/TR/rdf12-turtle)
+- [RDF-star](https://w3c-cg.github.io/rdf-star/cg-spec/)
+
