@@ -27,7 +27,7 @@ Either link to figures online or upload them to assets/images/posts folder:
 {% include figure image_path="assets/images/posts/image-name.png" alt="description text" %}
 
 
-Upload the slides to https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e
+Upload the slides to https://drive.google.com/drive/folders/1ziadF6QcDG5z1a0mshuDNbAlmtMtFJjN?usp=sharing
 
 The presentation slides are available [at this link](https://drive.google.com/drive/folders/1av8p5QM3ebM4V2lX9csUB7TXRpWNt27e?usp=sharing).
 
