@@ -23,7 +23,7 @@ it retains parts of SPARQL-star syntax.
 
 {% include figure image_path="assets/images/openmics/2026-11-13-rdf_12.png" alt="RDF 1.2 reification example visualization" caption="RDF 1.2 example" %}
 
-The presentation slides are available [at this link](https://drive.google.com/drive/folders/1ziadF6QcDG5z1a0mshuDNbAlmtMtFJjN?usp=sharing).
+The presentation slides are available [at this link](https://docs.google.com/presentation/d/11_wiHpcMqIQdsuxLJBpz2lb1Qoee0mBP9JvnPDguHu4/edit?usp=drive_link).
 
 ###### Further reading:
 - [RDF 1.2](https://www.w3.org/TR/rdf12-concepts)
