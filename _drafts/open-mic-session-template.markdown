@@ -4,6 +4,7 @@ categories: [Open Mic Session, Open Mic]
 excerpt: "Short description of the session topic that is displayed below the article header on the landing page."
 ---
 
+<!-- IMPORTANT: Remove these comments before publishing, they may break generated HTML otherwise -->
 <!-- Fixing content of this file:
   - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
     - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`

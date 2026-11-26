@@ -4,6 +4,7 @@ categories: [Open Mic Announcement, Open Mic]
 ---
 
 
+<!-- IMPORTANT: Remove these comments before publishing, they may break generated HTML otherwise -->
 <!-- Naming convention: post MUST be named beginning with YEAR-MM-DD-title.MARKDOWN. Create a COPY of this file in _posts and rename it according to the convention. The date is not date of presentation, but date of publication of the announcement. The title in human readable form is put in the quotes to the title parameter in front matter  -->
 <!-- Fixing content of this file:
   - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
