@@ -4,12 +4,6 @@ categories: [Open Mic Session, Open Mic]
 excerpt: "We discuss the proposed changes to the ontologies underlying TermIt and how they will affect existing data"
 ---
 
-<!-- Fixing content of this file:
-  - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
-    - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`
-    - OPEN_MIC_SESSION_DATE=`Friday 4 April 2023`
-  - remove all comments from this file
--->
 
 On Friday 23 January 2026 [Martin Ledvinka](https://kbss.felk.cvut.cz/web/team#martin-ledvinka) held an Open Mic
 session with the topic \"TermIt: proposal of changes to underlying ontologies.\"

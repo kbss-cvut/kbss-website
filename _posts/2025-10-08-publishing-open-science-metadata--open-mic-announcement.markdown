@@ -3,14 +3,6 @@ title: "Upcoming Open Mic - Publishing Open Science metadata"
 categories: [Open Mic Announcement, Open Mic]
 ---
 
-
-<!-- Naming convention: post MUST be named beginning with YEAR-MM-DD-title.MARKDOWN. Create a COPY of this file in _posts and rename it according to the convention. The date is not date of presentation, but date of publication of the announcement. The title in human readable form is put in the quotes to the title parameter in front matter  -->
-<!-- Fixing content of this file:
-  - [IF NOT RUNNING FROM GITHUB ACTION] replace all variables within this file surrounded by `${` `}`, example values are:
-    - OPEN_MIC_SESSION_TITLE=`Debugging SPARQL queries`
-    - OPEN_MIC_SESSION_DATE=`Friday 4 April 2023`
-  - remove all comments from this file
--->
 The Open mic session starts on Friday 10 October 2025 at 10:30 via [this link](https://meet.jit.si/open-mic-kbss). [Michal Med](https://kbss.felk.cvut.cz/web/team#michal-med) presents outputs of his work on metadata profile for Czech cell of European Open Science Cloud.
 
 {% include figure image_path="/assets/images/openmics/2025-10-10-eosc.png" alt="Czech cell of EOSC" %}
